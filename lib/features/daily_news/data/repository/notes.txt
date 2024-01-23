@@ -1,0 +1,9 @@
+repository is the bridge between the data layer and the domain layer
+repositories are responsible for coordinating data from the different data sources
+you actually implement the repository in the data layer
+
+
+repository in the domain layer vs repository in the data layer
+
+repository of the domain layer:
+this repo is in the form of an abstract class in which there are functions that still need to be implemented 
